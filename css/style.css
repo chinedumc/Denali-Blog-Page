@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-navbar {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    padding:0px 90px;
+}
+
+.top-navbar a {
+    text-decoration: none;
+    color: rgb(122, 118, 118);
+}
+
+.blog-name {
+    font-size: 18px;
+    float: left;
+    font-weight: bold;
+}
+.nav-items a {
+    font-size: 11px;
+    float: right;
+    padding: 0px 10px;
+    
+}
+
+.mainbody {
+    width: 100%;
+    height: 1000px;
+    background-color:rgb(243, 236, 236);
+    padding:25px 90px;
+}
+
+.profile-bar {
+    width: 250px;
+    height: 500px;
+    background-color: white;
+    padding: 15px;
+    float: left;
+    border-radius: 0.5em;
+    margin-right: 10px;
+}
+
+.profile-pix img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0px 32px;
+    
+}
+
+.profile-text p {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.profile-hor-line hr {
+    width: 40%;
+    float: left;
+    margin-right: 66px;
+}
+
+.featured-post-header a {
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.sm-icons {
+    width: 60%;
+}
+
+.sm-icons img {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+}
+
+.profile-bar-footnote p {
+    font-size: 10px;
+    color: grey;
+    float: left;
+}
+
+.hor-bar-container .hor-bar-header{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hor-bar-container .date-genre-text {   
+    font-size: 12px;
+    color: silver;
+}
+
+.hor-bar-body-text, a {
+    font-size:16px;
+    color: silver;
+}
+
+.hor-bar {
+    background-color: white;
+    width: 790px;
+    height: 215px;
+    float: right;
+    margin-bottom: 20px;
+    border-radius: 0.5em;
+    padding-right: 15px;
+}
+
+.hor-bar img{
+    width: 180px;
+    height: 180px;
+    margin: 20px;
+    float: left;
+}
+
+#hor-bar-3 {
+    margin-top: 35px;
+}
+
+
